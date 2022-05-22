@@ -23,7 +23,7 @@ namespace discord_bot
             client.MessageReceived += CommandsHandler;
             client.Log += Log;
 
-            var token = "OTc0MjY5NzQ2ODI2NTc5OTY4.GZaphh.Z_dQG4WsLXUvEHGrz56KfWdxVEacKGzSpSTvRw";
+            var token = "OsTc0MjY5NzQ2ODI2NTc5OTY4.GZaphh.Z_dQG4WsLXUvEHGrz56KfWdxVEacKGzSpSTvRw";
 
             await client.LoginAsync(TokenType.Bot, token);
             await client.StartAsync();
