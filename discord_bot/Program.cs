@@ -9,7 +9,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Runtime.Remoting;
 //https://discord.com/api/oauth2/authorize?client_id=974269746826579968&permissions=268435456&scope=bot
-//OTc0MjY5NzQ2ODI2NTc5OTY4.GZaphh.Z_dQG4WsLXUvEHGrz56KfWdxVEacKGzSpSTvRw
+//OsTc0MjY5NzQ2ODI2NTc5OTY4.GZaphh.Z_dQG4WsLXUvEHGrz56KfWdxVEacKGzSpSTvRw
 namespace discord_bot
 {
     class Program
